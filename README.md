@@ -1,4 +1,4 @@
-# daily-coding-problem
-Solutions to the Daily Coding Problem newsletter
+# Daily Coding Problem
+Solutions to the Daily Coding Problem newsletter in Python.
 
-Solutions are provided in Python. Subscribe to the newsletter here: https://www.dailycodingproblem.com/
+Subscribe to the newsletter here: https://www.dailycodingproblem.com/
