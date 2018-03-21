@@ -18,8 +18,8 @@ def max_sum_nonadjacent(values):
 		# Between the last two maximums, what is the larger one?
 		next_max = max(prev_max, running_max)
         
-        # Include the current value in the sum for comparison on the
-        # next iteration
+        	# Include the current value in the sum for comparison on the
+        	# next iteration
 		prev_max = running_max + i
 
 		# Save the running maximum excluding the current value
