@@ -2,15 +2,17 @@
 
 def max_sum_nonadjacent(values):
 	"""
-	This method finds the maximum sum of two non-adjacent numbers
-	in a given sequence. It runs in O(n) time.
+	This method finds the maximum sum of a sequence of non-adjacent
+	numbers in a given sequence. It runs in O(n) time.
 
 	Args:
 		values: A iterable sequence of numbers
 
 	Returns:
-		The maximum sum of two non-adjacent numbers in the sequence.
+		The maximum sum of a subsequence of non-adjacent numbers from
+		a given sequence.
 	"""
+
 	prev_max_incl = 0
 	prev_max_excl = 0
     
